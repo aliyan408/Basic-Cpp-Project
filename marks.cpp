@@ -10,4 +10,5 @@ int main(){
     cin>>obtain_marks;
     float percentage=(obtain_marks/total_marks)*100;
     cout<<"percentage="<<percentage<<"%";
+    return 0;
 }
